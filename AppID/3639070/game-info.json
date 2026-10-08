@@ -1,0 +1,271 @@
+{
+  "appid": "3639070",
+  "name": "BLACKWOOD",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639070/86eb06cf8dad642dacb7b5c4944515ff48c4cd3a/header.jpg?t=1790597941",
+  "achievements": {
+    "ACHIEVEMENT_1_0": {
+      "name": "Dead Eye",
+      "description": "Perform over 100 headshots",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/44ccc9dac7db66aefe9e8a45fb9a3a5f3b18c4f4.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/e548ea8d0cf4aded6b66e9b579f7f1f1b2e9e52a.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.9"
+    },
+    "ACHIEVEMENT_1_1": {
+      "name": "Close and Personal",
+      "description": "Perform 50 takedowns",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/0241a0d1ef19407640b88b2b183d82eedf9c86c8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/0183d9d7d9cc4f421525cce4a6823846e31d467f.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "28.4"
+    },
+    "ACHIEVEMENT_1_2": {
+      "name": "Perfect Timing",
+      "description": "Perform over 25 parries",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/059179dfb7d42538f052eaefd7f894e11935150b.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/661ec1de32d0c8034a9f8a9d0c3a12a6efcc5222.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "35.0"
+    },
+    "ACHIEVEMENT_1_3": {
+      "name": "Pistol Pro",
+      "description": "Perform over 50 kills with a pistol",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/b948edb467745af4ff158a2661ce3f114994f97a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/d6ac801aa425d65c51ffd752ebb56dd2d40e9054.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "43.3"
+    },
+    "ACHIEVEMENT_1_4": {
+      "name": "Rifleman",
+      "description": "Perform over 50 kills with an assault rifle",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/6d246041c43ed74c4496eca8c94ce4ec534d6765.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/288ee9cc50c43c3d8edd54f2cc652e64881aa914.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.7"
+    },
+    "ACHIEVEMENT_1_5": {
+      "name": "Scattershot",
+      "description": "Perform over 50 kills with a shotgun",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/014ed3f40d0406c5536b86cebc9edccca37ae528.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/47e89857ea4789f131f7fbd31cef01ec83fbe628.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "4.0"
+    },
+    "ACHIEVEMENT_1_6": {
+      "name": "Death From Above",
+      "description": "Perform over 50 aerial kills",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/2c8bfc26b13dcd16f124359d5c22c3a5b26b85cf.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/8ba93803d2c8bc5419b55a199dc86295e4580860.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "ACHIEVEMENT_1_7": {
+      "name": "Six-Star Store",
+      "description": "Reach 6-star popularity",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/c7218c304ccaa5f10527753ee57bcd1bbbc03631.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/d41f0356e72a29cfe6d1a476dccf188d67f5e3ae.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "2.4"
+    },
+    "ACHIEVEMENT_1_8": {
+      "name": "Shelves Loaded",
+      "description": "Have more than 60% stock",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/8d45790acf3e2e154ce5088c2120c0f92108ba0e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/eba71c4afc4931df7da0b6287906465e64353a05.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "36.2"
+    },
+    "ACHIEVEMENT_1_9": {
+      "name": "Critic's Pick",
+      "description": "Make your first good movie suggestion",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/26f86f029128473c31caea0d5fb64e42fd66d2be.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/c526591077675682a9037449b7a0401d91fc430d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "61.5"
+    },
+    "ACHIEVEMENT_1_10": {
+      "name": "Closer to Amelie",
+      "description": "Maintain high relation progress with Amelie for a week",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/01ff3c6c9ed6e304d99d4ebc302002999ffbaf3f.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/9184b496b50f0e4797a4612c7e5c4da7c6892b59.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "31.2"
+    },
+    "ACHIEVEMENT_1_11": {
+      "name": "Bulk Order",
+      "description": "Buy a total over 400 copies of DVDs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/60d10874ee22adfe90e6455e3b97c18fe18984b8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/7feaa1ba4584c41217eefa1127adc99f8bfd22d9.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "33.3"
+    },
+    "ACHIEVEMENT_1_12": {
+      "name": "First Sale",
+      "description": "Make your first sale from the counter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/6ad40e814aa25f3b1a3565f22aba1f2f05164fe9.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/f23bac26c3dc8091967b427aee57bdcfd485b0aa.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "56.9"
+    },
+    "ACHIEVEMENT_1_13": {
+      "name": "Rise and Shine",
+      "description": "Perform the full morning routine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/39b78172376e56de1c446cfd83ff88cebb860483.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/a142a7b7f8779e99e6a55c3f5aa185020f90ba0c.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "34.5"
+    },
+    "ACHIEVEMENT_1_14": {
+      "name": "In Step",
+      "description": "Perform a full slot of choreography",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/54ac92f4ec9b325e62fa1d7e532f4cf13dae8593.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/df64fc1ae47357b57d5a870bd4f505da7700937e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.2"
+    },
+    "ACHIEVEMENT_1_15": {
+      "name": "First Rule of Fight Club",
+      "description": "Win your first fight club",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/06c85be2321fb1c362870956ec96c423932c2ad8.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/64c8c3fb9c9d1ce4484be69b5863252728dd46af.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "15.3"
+    },
+    "ACHIEVEMENT_1_16": {
+      "name": "Untouched",
+      "description": "Win 3 rounds in the fight club while retaining full health",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/1e01591ac0175ec7fef27f8fc69122a94a4a4275.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/93f503a9c246736520c658c21ed0e32d9deba0b0.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.5"
+    },
+    "ACHIEVEMENT_1_17": {
+      "name": "Legendary Status",
+      "description": "Survive all waves in the IronGate Trials",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/847db17f72aeada953a841be0105b228b2adb507.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/9e7ece0f38d5034939fed7f0d87c045b2d0a03b5.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "11.3"
+    },
+    "ACHIEVEMENT_1_18": {
+      "name": "Limited Addiction",
+      "description": "Collect all 5 special-edition cigarette boxes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/3697772e2044971c26f90def94b170305f4b158a.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/665ce8be7d2d92a017ed5bd30f67d1c7745ae16b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "ACHIEVEMENT_1_19": {
+      "name": "Hold Your Fire",
+      "description": "Do not shoot the alligator at first sight",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/f94d2526b9d387636b3892fbecaa7152bc2f5e37.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/d0d7b40297f842cb44e8608ca21c73756bb61780.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "48.8"
+    },
+    "ACHIEVEMENT_1_20": {
+      "name": "He really needed to get to his car",
+      "description": "Anton can't stop talking about getting to his car",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/403531272eab5d6322fb907fb878d050157a9ab2.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/ff97c3c22b831467e1e99700cac8a993c047d51b.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "91.6"
+    },
+    "ACHIEVEMENT_1_21": {
+      "name": "Just Wait",
+      "description": "Wait at the railing for 30 seconds",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/122de004c5ef54d6ce2b2f311d4abe6cd62dba99.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/ee8dde1011693e4aa0a0e9a4cb1574b9745214da.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "1.0"
+    },
+    "ACHIEVEMENT_1_22": {
+      "name": "Wrong Little Boy",
+      "description": "Fight the wrong little boy",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/b72de2ffa7cf95aab03b9d8e1af8c630f1b1ba81.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/011322af9a3246b2b044e4cf186238b094399ccd.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "5.9"
+    },
+    "ACHIEVEMENT_1_23": {
+      "name": "Beat the Clock",
+      "description": "Reach destination under best time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/072d4710bb403a00d23af1b84a24533c0d10039c.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/ceb5f4d4ea7893b8bdf39603cfc1325a0cedc9ac.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    },
+    "ACHIEVEMENT_1_24": {
+      "name": "Act One Complete",
+      "description": "Finish Act 1",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/8d5e2531aff16e6033c8a4d35ebcbb1e0915ff30.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/bb123bdf7a80d21e81d203a7cd39f5a1c6ce24ce.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "23.3"
+    },
+    "ACHIEVEMENT_1_25": {
+      "name": "Street Justice",
+      "description": "Perform a curb stomp takedown",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/cbb41067293fb6247a88e175c71e80cf4eed1005.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/9e3083d125e2e6f1ddf60afd9928afd9e499ac2d.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "13.1"
+    },
+    "ACHIEVEMENT_1_26": {
+      "name": "Glass Breaker",
+      "description": "Perform car door window smash takedown",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/ae7ed7adc1038bff43aacee8f87921c1d628dc0e.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/b8a36ff88eb3bf372b38c22e295209cff4eb1449.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "3.0"
+    },
+    "ACHIEVEMENT_1_27": {
+      "name": "Store Cat",
+      "description": "Have the cat follow you around",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/8d4138fb9037217dba1d20d8cf5934f728e962a6.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/3f86508046d0dbeaedd456c64344cf6680bc1153.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "77.2"
+    },
+    "ACHIEVEMENT_1_28": {
+      "name": "For the Shelf",
+      "description": "Collect 10 special-edition DVD boxes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/e35065efdfe14d9708852509647befbf4cd49d23.jpg",
+      "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/155bda4191025c9f49d5ea465d5389f3a37c840e.jpg",
+      "hidden": false,
+      "group": "Base Game",
+      "percent": "0.3"
+    }
+  },
+  "platform": null,
+  "blacklist": [],
+  "uses_db": false
+}
