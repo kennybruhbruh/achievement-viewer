@@ -19,7 +19,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/0183d9d7d9cc4f421525cce4a6823846e31d467f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.4"
+      "percent": "28.5"
     },
     "ACHIEVEMENT_1_2": {
       "name": "Perfect Timing",
@@ -28,7 +28,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/661ec1de32d0c8034a9f8a9d0c3a12a6efcc5222.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "35.0"
+      "percent": "35.1"
     },
     "ACHIEVEMENT_1_3": {
       "name": "Pistol Pro",
@@ -46,7 +46,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/288ee9cc50c43c3d8edd54f2cc652e64881aa914.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.7"
+      "percent": "23.8"
     },
     "ACHIEVEMENT_1_5": {
       "name": "Scattershot",
@@ -55,7 +55,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/47e89857ea4789f131f7fbd31cef01ec83fbe628.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.0"
+      "percent": "4.1"
     },
     "ACHIEVEMENT_1_6": {
       "name": "Death From Above",
@@ -82,7 +82,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/eba71c4afc4931df7da0b6287906465e64353a05.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.2"
+      "percent": "36.3"
     },
     "ACHIEVEMENT_1_9": {
       "name": "Critic's Pick",
@@ -100,7 +100,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/9184b496b50f0e4797a4612c7e5c4da7c6892b59.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "31.2"
+      "percent": "31.3"
     },
     "ACHIEVEMENT_1_11": {
       "name": "Bulk Order",
@@ -109,7 +109,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/7feaa1ba4584c41217eefa1127adc99f8bfd22d9.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "ACHIEVEMENT_1_12": {
       "name": "First Sale",
@@ -136,7 +136,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/df64fc1ae47357b57d5a870bd4f505da7700937e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.3"
     },
     "ACHIEVEMENT_1_15": {
       "name": "First Rule of Fight Club",
@@ -226,7 +226,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/bb123bdf7a80d21e81d203a7cd39f5a1c6ce24ce.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "23.3"
+      "percent": "23.4"
     },
     "ACHIEVEMENT_1_25": {
       "name": "Street Justice",
@@ -244,7 +244,7 @@
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/b8a36ff88eb3bf372b38c22e295209cff4eb1449.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "ACHIEVEMENT_1_27": {
       "name": "Store Cat",
