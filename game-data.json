@@ -1,399 +1,7 @@
 {
-  "last_updated": 1791538978,
+  "last_updated": 1793968699,
   "total_games": 3,
   "games": [
-    {
-      "appid": "3639070",
-      "info": {
-        "appid": "3639070",
-        "name": "BLACKWOOD",
-        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639070/86eb06cf8dad642dacb7b5c4944515ff48c4cd3a/header.jpg?t=1790597941",
-        "achievements": {
-          "ACHIEVEMENT_1_0": {
-            "name": "Dead Eye",
-            "description": "Perform over 100 headshots",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/44ccc9dac7db66aefe9e8a45fb9a3a5f3b18c4f4.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/e548ea8d0cf4aded6b66e9b579f7f1f1b2e9e52a.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "11.9"
-          },
-          "ACHIEVEMENT_1_1": {
-            "name": "Close and Personal",
-            "description": "Perform 50 takedowns",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/0241a0d1ef19407640b88b2b183d82eedf9c86c8.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/0183d9d7d9cc4f421525cce4a6823846e31d467f.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "28.5"
-          },
-          "ACHIEVEMENT_1_2": {
-            "name": "Perfect Timing",
-            "description": "Perform over 25 parries",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/059179dfb7d42538f052eaefd7f894e11935150b.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/661ec1de32d0c8034a9f8a9d0c3a12a6efcc5222.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "35.1"
-          },
-          "ACHIEVEMENT_1_3": {
-            "name": "Pistol Pro",
-            "description": "Perform over 50 kills with a pistol",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/b948edb467745af4ff158a2661ce3f114994f97a.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/d6ac801aa425d65c51ffd752ebb56dd2d40e9054.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "43.3"
-          },
-          "ACHIEVEMENT_1_4": {
-            "name": "Rifleman",
-            "description": "Perform over 50 kills with an assault rifle",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/6d246041c43ed74c4496eca8c94ce4ec534d6765.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/288ee9cc50c43c3d8edd54f2cc652e64881aa914.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "23.8"
-          },
-          "ACHIEVEMENT_1_5": {
-            "name": "Scattershot",
-            "description": "Perform over 50 kills with a shotgun",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/014ed3f40d0406c5536b86cebc9edccca37ae528.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/47e89857ea4789f131f7fbd31cef01ec83fbe628.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "4.1"
-          },
-          "ACHIEVEMENT_1_6": {
-            "name": "Death From Above",
-            "description": "Perform over 50 aerial kills",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/2c8bfc26b13dcd16f124359d5c22c3a5b26b85cf.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/8ba93803d2c8bc5419b55a199dc86295e4580860.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "0.3"
-          },
-          "ACHIEVEMENT_1_7": {
-            "name": "Six-Star Store",
-            "description": "Reach 6-star popularity",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/c7218c304ccaa5f10527753ee57bcd1bbbc03631.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/d41f0356e72a29cfe6d1a476dccf188d67f5e3ae.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "2.4"
-          },
-          "ACHIEVEMENT_1_8": {
-            "name": "Shelves Loaded",
-            "description": "Have more than 60% stock",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/8d45790acf3e2e154ce5088c2120c0f92108ba0e.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/eba71c4afc4931df7da0b6287906465e64353a05.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "36.3"
-          },
-          "ACHIEVEMENT_1_9": {
-            "name": "Critic's Pick",
-            "description": "Make your first good movie suggestion",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/26f86f029128473c31caea0d5fb64e42fd66d2be.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/c526591077675682a9037449b7a0401d91fc430d.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "61.5"
-          },
-          "ACHIEVEMENT_1_10": {
-            "name": "Closer to Amelie",
-            "description": "Maintain high relation progress with Amelie for a week",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/01ff3c6c9ed6e304d99d4ebc302002999ffbaf3f.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/9184b496b50f0e4797a4612c7e5c4da7c6892b59.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "31.3"
-          },
-          "ACHIEVEMENT_1_11": {
-            "name": "Bulk Order",
-            "description": "Buy a total over 400 copies of DVDs",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/60d10874ee22adfe90e6455e3b97c18fe18984b8.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/7feaa1ba4584c41217eefa1127adc99f8bfd22d9.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "33.4"
-          },
-          "ACHIEVEMENT_1_12": {
-            "name": "First Sale",
-            "description": "Make your first sale from the counter",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/6ad40e814aa25f3b1a3565f22aba1f2f05164fe9.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/f23bac26c3dc8091967b427aee57bdcfd485b0aa.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "56.9"
-          },
-          "ACHIEVEMENT_1_13": {
-            "name": "Rise and Shine",
-            "description": "Perform the full morning routine",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/39b78172376e56de1c446cfd83ff88cebb860483.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/a142a7b7f8779e99e6a55c3f5aa185020f90ba0c.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "34.5"
-          },
-          "ACHIEVEMENT_1_14": {
-            "name": "In Step",
-            "description": "Perform a full slot of choreography",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/54ac92f4ec9b325e62fa1d7e532f4cf13dae8593.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/df64fc1ae47357b57d5a870bd4f505da7700937e.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "11.3"
-          },
-          "ACHIEVEMENT_1_15": {
-            "name": "First Rule of Fight Club",
-            "description": "Win your first fight club",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/06c85be2321fb1c362870956ec96c423932c2ad8.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/64c8c3fb9c9d1ce4484be69b5863252728dd46af.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "15.3"
-          },
-          "ACHIEVEMENT_1_16": {
-            "name": "Untouched",
-            "description": "Win 3 rounds in the fight club while retaining full health",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/1e01591ac0175ec7fef27f8fc69122a94a4a4275.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/93f503a9c246736520c658c21ed0e32d9deba0b0.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "3.5"
-          },
-          "ACHIEVEMENT_1_17": {
-            "name": "Legendary Status",
-            "description": "Survive all waves in the IronGate Trials",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/847db17f72aeada953a841be0105b228b2adb507.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/9e7ece0f38d5034939fed7f0d87c045b2d0a03b5.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "11.3"
-          },
-          "ACHIEVEMENT_1_18": {
-            "name": "Limited Addiction",
-            "description": "Collect all 5 special-edition cigarette boxes",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/3697772e2044971c26f90def94b170305f4b158a.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/665ce8be7d2d92a017ed5bd30f67d1c7745ae16b.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "0.3"
-          },
-          "ACHIEVEMENT_1_19": {
-            "name": "Hold Your Fire",
-            "description": "Do not shoot the alligator at first sight",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/f94d2526b9d387636b3892fbecaa7152bc2f5e37.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/d0d7b40297f842cb44e8608ca21c73756bb61780.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "48.8"
-          },
-          "ACHIEVEMENT_1_20": {
-            "name": "He really needed to get to his car",
-            "description": "Anton can't stop talking about getting to his car",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/403531272eab5d6322fb907fb878d050157a9ab2.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/ff97c3c22b831467e1e99700cac8a993c047d51b.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "91.6"
-          },
-          "ACHIEVEMENT_1_21": {
-            "name": "Just Wait",
-            "description": "Wait at the railing for 30 seconds",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/122de004c5ef54d6ce2b2f311d4abe6cd62dba99.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/ee8dde1011693e4aa0a0e9a4cb1574b9745214da.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "1.0"
-          },
-          "ACHIEVEMENT_1_22": {
-            "name": "Wrong Little Boy",
-            "description": "Fight the wrong little boy",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/b72de2ffa7cf95aab03b9d8e1af8c630f1b1ba81.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/011322af9a3246b2b044e4cf186238b094399ccd.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "5.9"
-          },
-          "ACHIEVEMENT_1_23": {
-            "name": "Beat the Clock",
-            "description": "Reach destination under best time",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/072d4710bb403a00d23af1b84a24533c0d10039c.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/ceb5f4d4ea7893b8bdf39603cfc1325a0cedc9ac.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "0.3"
-          },
-          "ACHIEVEMENT_1_24": {
-            "name": "Act One Complete",
-            "description": "Finish Act 1",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/8d5e2531aff16e6033c8a4d35ebcbb1e0915ff30.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/bb123bdf7a80d21e81d203a7cd39f5a1c6ce24ce.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "23.4"
-          },
-          "ACHIEVEMENT_1_25": {
-            "name": "Street Justice",
-            "description": "Perform a curb stomp takedown",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/cbb41067293fb6247a88e175c71e80cf4eed1005.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/9e3083d125e2e6f1ddf60afd9928afd9e499ac2d.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "13.1"
-          },
-          "ACHIEVEMENT_1_26": {
-            "name": "Glass Breaker",
-            "description": "Perform car door window smash takedown",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/ae7ed7adc1038bff43aacee8f87921c1d628dc0e.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/b8a36ff88eb3bf372b38c22e295209cff4eb1449.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "3.1"
-          },
-          "ACHIEVEMENT_1_27": {
-            "name": "Store Cat",
-            "description": "Have the cat follow you around",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/8d4138fb9037217dba1d20d8cf5934f728e962a6.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/3f86508046d0dbeaedd456c64344cf6680bc1153.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "77.2"
-          },
-          "ACHIEVEMENT_1_28": {
-            "name": "For the Shelf",
-            "description": "Collect 10 special-edition DVD boxes",
-            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/e35065efdfe14d9708852509647befbf4cd49d23.jpg",
-            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/155bda4191025c9f49d5ea465d5389f3a37c840e.jpg",
-            "hidden": false,
-            "group": "Base Game",
-            "percent": "0.3"
-          }
-        },
-        "platform": null,
-        "blacklist": [],
-        "uses_db": false
-      },
-      "achievements": {
-        "ACHIEVEMENT_1_0": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_1": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_10": {
-          "earned": true,
-          "earned_time": 1791471590
-        },
-        "ACHIEVEMENT_1_11": {
-          "earned": true,
-          "earned_time": 1791470451
-        },
-        "ACHIEVEMENT_1_12": {
-          "earned": true,
-          "earned_time": 1789770116
-        },
-        "ACHIEVEMENT_1_13": {
-          "earned": true,
-          "earned_time": 1789688418
-        },
-        "ACHIEVEMENT_1_14": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_15": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_16": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_17": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_18": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_19": {
-          "earned": true,
-          "earned_time": 1789672693
-        },
-        "ACHIEVEMENT_1_2": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_20": {
-          "earned": true,
-          "earned_time": 1789687586
-        },
-        "ACHIEVEMENT_1_21": {
-          "earned": true,
-          "earned_time": 1791472780
-        },
-        "ACHIEVEMENT_1_22": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_23": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_24": {
-          "earned": true,
-          "earned_time": 1791466440
-        },
-        "ACHIEVEMENT_1_25": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_26": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_27": {
-          "earned": true,
-          "earned_time": 1791471682
-        },
-        "ACHIEVEMENT_1_28": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_3": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_4": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_5": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_6": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_7": {
-          "earned": false,
-          "earned_time": 0
-        },
-        "ACHIEVEMENT_1_8": {
-          "earned": true,
-          "earned_time": 1791469333
-        },
-        "ACHIEVEMENT_1_9": {
-          "earned": true,
-          "earned_time": 1791470564
-        }
-      }
-    },
     {
       "appid": "3357650",
       "info": {
@@ -408,7 +16,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/b1f42309cdd8941e6376e4f6080501e268e37e3d.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "96.8"
+            "percent": "96.7"
           },
           "2": {
             "name": "Power Trip",
@@ -417,7 +25,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/3360cc6d9cca7f9b98dd0ad795aa8734d09add04.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "87.5"
+            "percent": "87.4"
           },
           "3": {
             "name": "The Purr-fect Guide",
@@ -426,7 +34,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/c30f7939ad688cdfd2412dc96356eaf39e186788.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "72.1"
+            "percent": "72.2"
           },
           "4": {
             "name": "Another Pragmata",
@@ -435,7 +43,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/481c1e281a3823c7c2e7b553394ae0a3f6b6b698.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "62.6"
+            "percent": "62.8"
           },
           "5": {
             "name": "Entrusted Memory",
@@ -444,7 +52,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/b357b88e280791c18f3d13551fbfcd56ccb78216.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "58.8"
+            "percent": "59.0"
           },
           "6": {
             "name": "Mission Unveiled",
@@ -453,7 +61,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/cdd0cdaeeafc7e1419f22cf4905232a3003580b0.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "49.3"
+            "percent": "49.5"
           },
           "7": {
             "name": "Awakening",
@@ -462,7 +70,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/b9148bbe2545a36a7de493f73ead9451a7dd181e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "49.1"
+            "percent": "49.4"
           },
           "8": {
             "name": "Sentinel Breach",
@@ -471,7 +79,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/41aea8b0ce78b83224ad22b8b3fd2749b770c700.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "43.4"
+            "percent": "43.7"
           },
           "9": {
             "name": "Our Promise",
@@ -480,7 +88,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/070660e75c58978f83bb2dbb490e4eb539069afb.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "42.3"
+            "percent": "42.6"
           },
           "10": {
             "name": "The Right Man for the Job",
@@ -516,7 +124,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/9cb435cad95a6fd4bfd28869444829fedaeff303.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "81.3"
+            "percent": "81.2"
           },
           "14": {
             "name": "Peekaboo",
@@ -534,7 +142,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/e8360ad346eaa2c1c779795d8b60ae2b2a4e8357.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "88.4"
+            "percent": "88.3"
           },
           "16": {
             "name": "Replicating Extraordinaire!",
@@ -570,7 +178,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/72c6017ee747383b9728629a2b7e956ab2b34ee9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.4"
+            "percent": "13.5"
           },
           "20": {
             "name": "Red-Zoned and Loving It",
@@ -606,7 +214,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/754841a6762f4b6144847e9e3f2e0e89ef63d26a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "73.3"
+            "percent": "73.2"
           },
           "24": {
             "name": "Mini-Hunter Supreme",
@@ -624,7 +232,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/7b8194b5774801607fd046ac2da07bffc005576c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "59.8"
+            "percent": "60.0"
           },
           "26": {
             "name": "Can't Stop, Won't Stop",
@@ -651,7 +259,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/bf6703a7293e07e39f4e03378b6fee3c2f0b19a7.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "39.2"
+            "percent": "39.5"
           },
           "29": {
             "name": "A Lunar Challenge",
@@ -660,7 +268,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/d4d010aae921d092878604a74ecb4258dad13c47.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "22.7"
+            "percent": "22.8"
           },
           "30": {
             "name": "Round 'Em Up",
@@ -678,7 +286,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/864c5d2994498943753c3ec99e8d1a84534989a1.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "19.3"
+            "percent": "19.4"
           },
           "32": {
             "name": "Can I Borrow That?",
@@ -687,7 +295,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/8a5e60734f2847bccd51c3e8c3bb6214d7d1c03e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "20.5"
+            "percent": "20.6"
           },
           "33": {
             "name": "Clean Up on Aisle Three",
@@ -696,7 +304,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/5f100f72cfe9b471013523b28470bbff22533c33.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "27.4"
+            "percent": "27.6"
           },
           "34": {
             "name": "IT'S OVER 6000!",
@@ -705,7 +313,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/9600c34602fef0a0b1172d7fc2488fb61fbf5be0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "48.1"
+            "percent": "48.3"
           },
           "35": {
             "name": "Who Needs Guns!?",
@@ -714,7 +322,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3357650/4ef5c2c595b0b6ee9a0c0d28d499f9aa77aeca92.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "49.5"
+            "percent": "49.8"
           }
         },
         "platform": null,
@@ -869,7 +477,7 @@
       "info": {
         "appid": "3751950",
         "name": "Assassin's Creed Black Flag Resynced",
-        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/9b046115b1663a4be2b252712328e4f6c162da68/header.jpg?t=1787915122",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg?t=1793391152",
         "achievements": {
           "ACObsidian_Ach_1": {
             "name": "Last To Leave",
@@ -878,7 +486,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/d5fbf80334ee902ff3b5acbb4a64a3bc7f2d86dc.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "11.4"
+            "percent": "11.6"
           },
           "ACObsidian_Ach_2": {
             "name": "King of the Castle",
@@ -887,7 +495,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/5acb28e2b2c0438eae87163a766c5752771f5698.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "25.3"
+            "percent": "25.6"
           },
           "ACObsidian_Ach_3": {
             "name": "The Memory of My Enemy",
@@ -896,7 +504,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/5770e9b95b2c6431515dd0819b035067a3e9b904.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.4"
+            "percent": "6.6"
           },
           "ACObsidian_Ach_4": {
             "name": "Dilettante",
@@ -905,7 +513,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/d66a3bd4506526993721f868f386e2b6015d06de.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.1"
+            "percent": "3.2"
           },
           "ACObsidian_Ach_5": {
             "name": "Governor",
@@ -914,7 +522,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/f0d8f9ee63a809e7fbc907a61c014bd4f700d4ce.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "46.6"
+            "percent": "46.8"
           },
           "ACObsidian_Ach_6": {
             "name": "Zero Waste",
@@ -923,7 +531,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/fe99c02f10980bdc06856b2aefdc8ed54436430a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "17.2"
+            "percent": "17.4"
           },
           "ACObsidian_Ach_7": {
             "name": "Grandmaster",
@@ -932,7 +540,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/64c21a53aa10a7ea588a856d56c93886aa201135.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.1"
+            "percent": "6.2"
           },
           "ACObsidian_Ach_8": {
             "name": "Articles Of Agreement",
@@ -941,7 +549,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/915897abd5156e66ad0336dc18614c77430d8178.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "65.2"
+            "percent": "65.1"
           },
           "ACObsidian_Ach_9": {
             "name": "Among Thieves",
@@ -950,7 +558,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/5aa1269cea8161a5b9d3f3e9aebc5e1a16f83fe3.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "48.9"
+            "percent": "49.0"
           },
           "ACObsidian_Ach_10": {
             "name": "Help A Brother Out",
@@ -968,7 +576,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/2e35632d0214c0ab3c34438abac756743a1d85c5.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "17.4"
+            "percent": "17.7"
           },
           "ACObsidian_Ach_12": {
             "name": "Silence, Fool!",
@@ -977,7 +585,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/c8be76b42ae07c512654afa353f8c86d7e6baf87.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "44.0"
+            "percent": "44.1"
           },
           "ACObsidian_Ach_13": {
             "name": "Matador",
@@ -995,7 +603,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/53166c02a960e27cc25f92cd1b225afb1a03992d.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "22.2"
+            "percent": "22.4"
           },
           "ACObsidian_Ach_15": {
             "name": "Double Tap",
@@ -1004,7 +612,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/842a16e6e9247c080f76f96a85658d2cea53fbc2.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.2"
+            "percent": "14.3"
           },
           "ACObsidian_Ach_16": {
             "name": "Owned",
@@ -1022,7 +630,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/b2832be5101066445b5ce7090373b2189a1e09ca.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "17.7"
+            "percent": "17.9"
           },
           "ACObsidian_Ach_18": {
             "name": "Caught 'Em All",
@@ -1031,7 +639,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/7520d2aa602f5a7b0057b1ff96f46206113bd25e.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "39.7"
+            "percent": "39.8"
           },
           "ACObsidian_Ach_19": {
             "name": "Gun-kata",
@@ -1040,7 +648,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/f35c563cd6efdfc1d6ac46362c101a803ce82bec.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "40.8"
+            "percent": "41.0"
           },
           "ACObsidian_Ach_20": {
             "name": "Backs To The Wall",
@@ -1049,7 +657,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/f8542e4e0daea6b51c95f5d6871cb2e6cdfd83cf.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "85.5"
+            "percent": "85.4"
           },
           "ACObsidian_Ach_21": {
             "name": "Let Me Explain",
@@ -1058,7 +666,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/35d46a912b30787e4ac43f1c1be7778185785fcf.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "20.4"
+            "percent": "20.5"
           },
           "ACObsidian_Ach_22": {
             "name": "Overdesign IV",
@@ -1067,7 +675,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/8461ffb76ff63f3a4ff4f943a8a2debec7982548.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.9"
+            "percent": "6.0"
           },
           "ACObsidian_Ach_23": {
             "name": "Lively Havana",
@@ -1085,7 +693,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/dc1c5c04e0c64a05f2b93827279d8038171e2c5e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "86.1"
+            "percent": "86.0"
           },
           "ACObsidian_Ach_25": {
             "name": "Walls That Hold Back The Wind",
@@ -1094,7 +702,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/f524c9c3c873d2e9e64f431428db422d045b1a5e.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "72.9"
+            "percent": "72.8"
           },
           "ACObsidian_Ach_26": {
             "name": "In A World Without Gold",
@@ -1103,7 +711,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/1a6ecac1b18e86d6fbc31ba2cbe30dfa7bac0702.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "39.7"
+            "percent": "40.2"
           },
           "ACObsidian_Ach_27": {
             "name": "Ever A Splinter",
@@ -1112,7 +720,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/c36d4ef2919691c60b5a02bdd998007c402260e4.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "26.1"
+            "percent": "26.9"
           },
           "ACObsidian_Ach_28": {
             "name": "All Hands On Deck",
@@ -1121,7 +729,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/8d4a030e47a5698a623dfe6be5f43f4e43b83b18.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "25.1"
+            "percent": "25.6"
           },
           "ACObsidian_Ach_29": {
             "name": "Hungover ",
@@ -1130,7 +738,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/3ff92e23716294795aeb8bb29a6cae1c65a4ceed.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "28.3"
+            "percent": "28.4"
           },
           "ACObsidian_Ach_30": {
             "name": "Collective Madness",
@@ -1139,7 +747,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/1c55e7de491f33a37ebb5c5aa0141a5c3787e235.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "38.4"
+            "percent": "38.5"
           },
           "ACObsidian_Ach_31": {
             "name": "Strike The Colors",
@@ -1157,7 +765,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/f62151b68b13078d3899f1cce910dcbcaeefb440.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.0"
+            "percent": "16.2"
           },
           "ACObsidian_Ach_33": {
             "name": "Yo Ho…",
@@ -1166,7 +774,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/0e81bcf740f5381d7ff9ce7d929bf527b62a0568.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "86.1"
+            "percent": "86.0"
           },
           "ACObsidian_Ach_34": {
             "name": "Return The Favor",
@@ -1175,7 +783,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/acd6ab3b729c25d98c562d1d2ab6c27a95e80cd4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "40.2"
+            "percent": "40.4"
           },
           "ACObsidian_Ach_35": {
             "name": "Hunter Hunted",
@@ -1184,7 +792,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/9fde140a80da8dfc1257e8a5b697493044e5f906.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "20.9"
+            "percent": "21.2"
           },
           "ACObsidian_Ach_36": {
             "name": "Devil of the Caribbean",
@@ -1193,7 +801,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/94c4347bc9f04935d72502e87a64cb7636019375.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.9"
+            "percent": "11.1"
           },
           "ACObsidian_Ach_37": {
             "name": "Old Ironsides",
@@ -1211,7 +819,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/24ec5d51e3322a06d7bf6f33d06fe0a420975a3c.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "76.3"
+            "percent": "76.2"
           },
           "ACObsidian_Ach_39": {
             "name": "Dressing Overall",
@@ -1229,7 +837,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/891e25c057caa0b37ab86b0dc86a128eb732e93a.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "85.4"
+            "percent": "85.2"
           },
           "ACObsidian_Ach_41": {
             "name": "Business And Pleasure",
@@ -1247,7 +855,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/f1e8f737ce42bc6fd57ce4ca0ec307b9b1a2aa38.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.0"
+            "percent": "16.2"
           },
           "ACObsidian_Ach_43": {
             "name": "Glutton for Nourishment",
@@ -1256,7 +864,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/5f86877f184c8b18bc8a041c1590767d5da4df72.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "52.0"
+            "percent": "52.1"
           },
           "ACObsidian_Ach_44": {
             "name": "Friend To All",
@@ -1265,7 +873,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/e9109813a7a74a3f77ee3e07e7d528a442499410.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.9"
+            "percent": "7.0"
           },
           "ACObsidian_Ach_45": {
             "name": "Blow The Man Down",
@@ -1274,7 +882,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/0f451e6ddcd63795df6e5b33e2fa37b40dfe3864.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "5.9"
+            "percent": "6.0"
           },
           "ACObsidian_Ach_46": {
             "name": "Davy Jones' Locker",
@@ -1283,7 +891,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/9d90813e4af1bed8cd9de12aba9e2c1ec482e3cf.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "6.9"
+            "percent": "7.0"
           },
           "ACObsidian_Ach_47": {
             "name": "Cartographer",
@@ -1292,7 +900,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/32221a08c7e807511c6deaec89cf66b365cb49b1.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.2"
+            "percent": "14.5"
           },
           "ACObsidian_Ach_48": {
             "name": "Edward Catway",
@@ -1301,7 +909,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/3c59fcc82946f4be852acf32d8ef6e37590fbd2b.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "6.2"
+            "percent": "6.3"
           },
           "ACObsidian_Ach_49": {
             "name": "Ed the Diver",
@@ -1310,7 +918,7 @@
             "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3751950/c526ab32882f39937aa16d237723cca7bcd091db.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "44.1"
+            "percent": "44.3"
           }
         },
         "platform": null,
@@ -1322,294 +930,687 @@
           "description": "Take a seat on a burning ship",
           "displayName": "Last To Leave",
           "earned": 1,
-          "earned_time": 1787502413
+          "earned_time": 1793965085
         },
         "ACObsidian_Ach_10": {
           "description": "Complete a Templar Hunt sequence",
           "displayName": "Help A Brother Out",
           "earned": 1,
-          "earned_time": 1787502414
+          "earned_time": 1793965088
         },
         "ACObsidian_Ach_11": {
           "description": "Find all treasure chests in underwater shipwrecks",
           "displayName": "Seven Deadly Seas",
           "earned": 1,
-          "earned_time": 1787502414
+          "earned_time": 1793965088
         },
         "ACObsidian_Ach_12": {
           "description": "Kill a guard ringing a bell",
           "displayName": "Silence, Fool!",
           "earned": 1,
-          "earned_time": 1787502414
+          "earned_time": 1793965088
         },
         "ACObsidian_Ach_13": {
           "description": "Dodge a total of three charge attacks by a Wild Pig",
           "displayName": "Matador",
           "earned": 1,
-          "earned_time": 1787502414
+          "earned_time": 1793965088
         },
         "ACObsidian_Ach_14": {
           "description": "Get a perfect harpoon shot on a Great White Shark",
           "displayName": "Perfect Predator",
           "earned": 1,
-          "earned_time": 1787502414
+          "earned_time": 1793965089
         },
         "ACObsidian_Ach_15": {
           "description": "Parry two Ocelot attacks in rapid succession",
           "displayName": "Double Tap",
           "earned": 1,
-          "earned_time": 1787502414
+          "earned_time": 1793965089
         },
         "ACObsidian_Ach_16": {
           "description": "Complete every activity in a single location",
           "displayName": "Owned",
           "earned": 1,
-          "earned_time": 1787502414
+          "earned_time": 1793965089
         },
         "ACObsidian_Ach_17": {
           "description": "Kill 10 enemies by hanging them with the rope dart",
           "displayName": "The Hangman",
           "earned": 1,
-          "earned_time": 1787502415
+          "earned_time": 1793965089
         },
         "ACObsidian_Ach_18": {
           "description": "Catch at least five enemies within a single smoke bomb",
           "displayName": "Caught 'Em All",
           "earned": 1,
-          "earned_time": 1787502415
+          "earned_time": 1793965089
         },
         "ACObsidian_Ach_19": {
           "description": "Use pistols to kill four enemies in a row within five seconds",
           "displayName": "Gun-kata",
           "earned": 1,
-          "earned_time": 1787502413
+          "earned_time": 1793965084
         },
         "ACObsidian_Ach_2": {
           "description": "Capture all forts",
           "displayName": "King of the Castle",
           "earned": 1,
-          "earned_time": 1787502413
+          "earned_time": 1793965085
         },
         "ACObsidian_Ach_20": {
           "description": "Kill an enemy with a wall takedown",
           "displayName": "Backs To The Wall",
           "earned": 1,
-          "earned_time": 1787502413
+          "earned_time": 1793965084
         },
         "ACObsidian_Ach_21": {
           "description": "After a perfect parry, perform a total of four takedowns",
           "displayName": "Let Me Explain",
           "earned": 1,
-          "earned_time": 1787502415
+          "earned_time": 1793965090
         },
         "ACObsidian_Ach_22": {
           "description": "Kick a berserk enemy caught in smoke off a ship",
           "displayName": "Overdesign IV",
           "earned": 1,
-          "earned_time": 1787502418
+          "earned_time": 1793965096
         },
         "ACObsidian_Ach_23": {
           "description": "Get a tour of Havana (complete Sequence 2, Memory 1)",
           "displayName": "Lively Havana",
           "earned": 1,
-          "earned_time": 1787502412
+          "earned_time": 1793965083
         },
         "ACObsidian_Ach_24": {
           "description": "Captain your own ship (complete Sequence 2, Memory 6)",
           "displayName": "A Poxy Bird",
           "earned": 1,
-          "earned_time": 1787502412
+          "earned_time": 1793965084
         },
         "ACObsidian_Ach_25": {
           "description": "Settle in a new home (complete Sequence 4, Memory 1)",
           "displayName": "Walls That Hold Back The Wind",
           "earned": 1,
-          "earned_time": 1787502415
+          "earned_time": 1793965090
         },
         "ACObsidian_Ach_26": {
           "description": "Witness the end of a legend (complete Sequence 8, Memory 1)",
           "displayName": "In A World Without Gold",
           "earned": 1,
-          "earned_time": 1787502415
+          "earned_time": 1793965090
         },
         "ACObsidian_Ach_27": {
           "description": "Stop a Templar plot (complete Sequence 12, Memory 5)",
           "displayName": "Ever A Splinter",
           "earned": 1,
-          "earned_time": 1787502416
+          "earned_time": 1793965090
         },
         "ACObsidian_Ach_28": {
           "description": "Recruit all Officers",
           "displayName": "All Hands On Deck",
           "earned": 1,
-          "earned_time": 1787502416
+          "earned_time": 1793965091
         },
         "ACObsidian_Ach_29": {
           "description": "Wake up in a haystack",
           "displayName": "Hungover ",
           "earned": 1,
-          "earned_time": 1787502416
+          "earned_time": 1793965091
         },
         "ACObsidian_Ach_3": {
           "description": "Display all character portraits in the Great Inagua manor",
           "displayName": "The Memory of My Enemy",
           "earned": 1,
-          "earned_time": 1787502413
+          "earned_time": 1793965085
         },
         "ACObsidian_Ach_30": {
           "description": "Add one of each ship class to Kenway's fleet",
           "displayName": "Collective Madness",
           "earned": 1,
-          "earned_time": 1787502416
+          "earned_time": 1793965091
         },
         "ACObsidian_Ach_31": {
           "description": "Board a Lead Convoy ship",
           "displayName": "Strike The Colors",
           "earned": 1,
-          "earned_time": 1787502416
+          "earned_time": 1793965091
         },
         "ACObsidian_Ach_32": {
           "description": "Survive a rogue wave taken from the side",
           "displayName": "Unsinkable",
           "earned": 1,
-          "earned_time": 1787502416
+          "earned_time": 1793965092
         },
         "ACObsidian_Ach_33": {
           "description": "Learn a new shanty",
           "displayName": "Yo Hoâ€¦",
           "earned": 1,
-          "earned_time": 1787502416
+          "earned_time": 1793965092
         },
         "ACObsidian_Ach_34": {
           "description": "Dash ram a ramming Brig",
           "displayName": "Return The Favor",
           "earned": 1,
-          "earned_time": 1787502416
+          "earned_time": 1793965092
         },
         "ACObsidian_Ach_35": {
           "description": "Defeat a Pirate Hunter while at maximum Wanted Level",
           "displayName": "Hunter Hunted",
           "earned": 1,
-          "earned_time": 1787502416
+          "earned_time": 1793965092
         },
         "ACObsidian_Ach_36": {
           "description": "Defeat all legendary ships",
           "displayName": "Devil of the Caribbean",
           "earned": 1,
-          "earned_time": 1787502417
+          "earned_time": 1793965093
         },
         "ACObsidian_Ach_37": {
           "description": "Perform 3 perfect braces",
           "displayName": "Old Ironsides",
           "earned": 1,
-          "earned_time": 1787502417
+          "earned_time": 1793965093
         },
         "ACObsidian_Ach_38": {
           "description": "Unlock the secondary firing mode on a Jackdaw weapon",
           "displayName": "Not So Little Friend",
           "earned": 1,
-          "earned_time": 1787502417
+          "earned_time": 1793965093
         },
         "ACObsidian_Ach_39": {
           "description": "Equip new cosmetics in each of the Jackdaw's vanity slots",
           "displayName": "Dressing Overall",
           "earned": 1,
-          "earned_time": 1787502417
+          "earned_time": 1793965093
         },
         "ACObsidian_Ach_4": {
           "description": "Fill all Art Collection and Equipment slots in the Great Inagua manor",
           "displayName": "Dilettante",
-          "earned": 0
+          "earned": 1,
+          "earned_time": 1793967672
         },
         "ACObsidian_Ach_40": {
           "description": "Craft an item",
           "displayName": "Smooth Operator",
           "earned": 1,
-          "earned_time": 1787502417
+          "earned_time": 1793965094
         },
         "ACObsidian_Ach_41": {
           "description": "Spend 50,000 Reales",
           "displayName": "Business And Pleasure",
           "earned": 1,
-          "earned_time": 1787502417
+          "earned_time": 1793965094
         },
         "ACObsidian_Ach_42": {
           "description": "Fully upgrade the Jackdaw",
           "displayName": "Ship This",
           "earned": 1,
-          "earned_time": 1787502417
+          "earned_time": 1793965094
         },
         "ACObsidian_Ach_43": {
           "description": "Consume 20 food items",
           "displayName": "Glutton for Nourishment",
           "earned": 1,
-          "earned_time": 1787502417
+          "earned_time": 1793965094
         },
         "ACObsidian_Ach_44": {
           "description": "Interact with all seven friendly animals",
           "displayName": "Friend To All",
           "earned": 1,
-          "earned_time": 1787502417
+          "earned_time": 1793965095
         },
         "ACObsidian_Ach_45": {
           "description": "Shoot down all the hanging bodies in Long Bay",
           "displayName": "Blow The Man Down",
           "earned": 1,
-          "earned_time": 1787502418
+          "earned_time": 1793965095
         },
         "ACObsidian_Ach_46": {
           "description": "Swim to theÂ lowestÂ point on the map",
           "displayName": "Davy Jones' Locker",
           "earned": 1,
-          "earned_time": 1787502418
+          "earned_time": 1793965095
         },
         "ACObsidian_Ach_47": {
           "description": "Visit every location in the game",
           "displayName": "Cartographer",
           "earned": 1,
-          "earned_time": 1787502418
+          "earned_time": 1793965095
         },
         "ACObsidian_Ach_48": {
           "description": "Break 50 potted plants",
           "displayName": "Edward Catway",
           "earned": 1,
-          "earned_time": 1787502418
+          "earned_time": 1793965095
         },
         "ACObsidian_Ach_49": {
           "description": "Swim a total of 1000m underwater, excluding underwater shipwrecks",
           "displayName": "Ed the Diver",
           "earned": 1,
-          "earned_time": 1787502418
+          "earned_time": 1793965096
         },
         "ACObsidian_Ach_5": {
           "description": "Restore all buildings in the Great Inagua village",
           "displayName": "Governor",
           "earned": 1,
-          "earned_time": 1787502413
+          "earned_time": 1793965085
         },
         "ACObsidian_Ach_6": {
           "description": "Restore a map from map pieces",
           "displayName": "Zero Waste",
           "earned": 1,
-          "earned_time": 1787502413
+          "earned_time": 1793965086
         },
         "ACObsidian_Ach_7": {
           "description": "Win at each of the different tavern games",
           "displayName": "Grandmaster",
           "earned": 1,
-          "earned_time": 1787502413
+          "earned_time": 1793965087
         },
         "ACObsidian_Ach_8": {
           "description": "Ensure the survival of all pirates in a street fight",
           "displayName": "Articles Of Agreement",
           "earned": 1,
-          "earned_time": 1787502414
+          "earned_time": 1793965087
         },
         "ACObsidian_Ach_9": {
           "description": "Unlock a smuggler's chest",
           "displayName": "Among Thieves",
           "earned": 1,
-          "earned_time": 1787502414
+          "earned_time": 1793965087
+        }
+      }
+    },
+    {
+      "appid": "3639070",
+      "info": {
+        "appid": "3639070",
+        "name": "BLACKWOOD",
+        "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639070/86eb06cf8dad642dacb7b5c4944515ff48c4cd3a/header.jpg?t=1790597941",
+        "achievements": {
+          "ACHIEVEMENT_1_0": {
+            "name": "Dead Eye",
+            "description": "Perform over 100 headshots",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/44ccc9dac7db66aefe9e8a45fb9a3a5f3b18c4f4.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/e548ea8d0cf4aded6b66e9b579f7f1f1b2e9e52a.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "12.8"
+          },
+          "ACHIEVEMENT_1_1": {
+            "name": "Close and Personal",
+            "description": "Perform 50 takedowns",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/0241a0d1ef19407640b88b2b183d82eedf9c86c8.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/0183d9d7d9cc4f421525cce4a6823846e31d467f.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "29.5"
+          },
+          "ACHIEVEMENT_1_2": {
+            "name": "Perfect Timing",
+            "description": "Perform over 25 parries",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/059179dfb7d42538f052eaefd7f894e11935150b.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/661ec1de32d0c8034a9f8a9d0c3a12a6efcc5222.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "36.5"
+          },
+          "ACHIEVEMENT_1_3": {
+            "name": "Pistol Pro",
+            "description": "Perform over 50 kills with a pistol",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/b948edb467745af4ff158a2661ce3f114994f97a.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/d6ac801aa425d65c51ffd752ebb56dd2d40e9054.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "44.4"
+          },
+          "ACHIEVEMENT_1_4": {
+            "name": "Rifleman",
+            "description": "Perform over 50 kills with an assault rifle",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/6d246041c43ed74c4496eca8c94ce4ec534d6765.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/288ee9cc50c43c3d8edd54f2cc652e64881aa914.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "24.9"
+          },
+          "ACHIEVEMENT_1_5": {
+            "name": "Scattershot",
+            "description": "Perform over 50 kills with a shotgun",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/014ed3f40d0406c5536b86cebc9edccca37ae528.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/47e89857ea4789f131f7fbd31cef01ec83fbe628.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "4.3"
+          },
+          "ACHIEVEMENT_1_6": {
+            "name": "Death From Above",
+            "description": "Perform over 50 aerial kills",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/2c8bfc26b13dcd16f124359d5c22c3a5b26b85cf.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/8ba93803d2c8bc5419b55a199dc86295e4580860.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.3"
+          },
+          "ACHIEVEMENT_1_7": {
+            "name": "Six-Star Store",
+            "description": "Reach 6-star popularity",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/c7218c304ccaa5f10527753ee57bcd1bbbc03631.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/d41f0356e72a29cfe6d1a476dccf188d67f5e3ae.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "2.7"
+          },
+          "ACHIEVEMENT_1_8": {
+            "name": "Shelves Loaded",
+            "description": "Have more than 60% stock",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/8d45790acf3e2e154ce5088c2120c0f92108ba0e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/eba71c4afc4931df7da0b6287906465e64353a05.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "37.0"
+          },
+          "ACHIEVEMENT_1_9": {
+            "name": "Critic's Pick",
+            "description": "Make your first good movie suggestion",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/26f86f029128473c31caea0d5fb64e42fd66d2be.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/c526591077675682a9037449b7a0401d91fc430d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "62.1"
+          },
+          "ACHIEVEMENT_1_10": {
+            "name": "Closer to Amelie",
+            "description": "Maintain high relation progress with Amelie for a week",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/01ff3c6c9ed6e304d99d4ebc302002999ffbaf3f.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/9184b496b50f0e4797a4612c7e5c4da7c6892b59.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "32.4"
+          },
+          "ACHIEVEMENT_1_11": {
+            "name": "Bulk Order",
+            "description": "Buy a total over 400 copies of DVDs",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/60d10874ee22adfe90e6455e3b97c18fe18984b8.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/7feaa1ba4584c41217eefa1127adc99f8bfd22d9.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "34.3"
+          },
+          "ACHIEVEMENT_1_12": {
+            "name": "First Sale",
+            "description": "Make your first sale from the counter",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/6ad40e814aa25f3b1a3565f22aba1f2f05164fe9.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/f23bac26c3dc8091967b427aee57bdcfd485b0aa.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "57.2"
+          },
+          "ACHIEVEMENT_1_13": {
+            "name": "Rise and Shine",
+            "description": "Perform the full morning routine",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/39b78172376e56de1c446cfd83ff88cebb860483.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/a142a7b7f8779e99e6a55c3f5aa185020f90ba0c.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "34.7"
+          },
+          "ACHIEVEMENT_1_14": {
+            "name": "In Step",
+            "description": "Perform a full slot of choreography",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/54ac92f4ec9b325e62fa1d7e532f4cf13dae8593.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/df64fc1ae47357b57d5a870bd4f505da7700937e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "11.9"
+          },
+          "ACHIEVEMENT_1_15": {
+            "name": "First Rule of Fight Club",
+            "description": "Win your first fight club",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/06c85be2321fb1c362870956ec96c423932c2ad8.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/64c8c3fb9c9d1ce4484be69b5863252728dd46af.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "16.2"
+          },
+          "ACHIEVEMENT_1_16": {
+            "name": "Untouched",
+            "description": "Win 3 rounds in the fight club while retaining full health",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/1e01591ac0175ec7fef27f8fc69122a94a4a4275.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/93f503a9c246736520c658c21ed0e32d9deba0b0.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.7"
+          },
+          "ACHIEVEMENT_1_17": {
+            "name": "Legendary Status",
+            "description": "Survive all waves in the IronGate Trials",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/847db17f72aeada953a841be0105b228b2adb507.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/9e7ece0f38d5034939fed7f0d87c045b2d0a03b5.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "12.2"
+          },
+          "ACHIEVEMENT_1_18": {
+            "name": "Limited Addiction",
+            "description": "Collect all 5 special-edition cigarette boxes",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/3697772e2044971c26f90def94b170305f4b158a.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/665ce8be7d2d92a017ed5bd30f67d1c7745ae16b.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.4"
+          },
+          "ACHIEVEMENT_1_19": {
+            "name": "Hold Your Fire",
+            "description": "Do not shoot the alligator at first sight",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/f94d2526b9d387636b3892fbecaa7152bc2f5e37.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/d0d7b40297f842cb44e8608ca21c73756bb61780.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "48.8"
+          },
+          "ACHIEVEMENT_1_20": {
+            "name": "He really needed to get to his car",
+            "description": "Anton can't stop talking about getting to his car",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/403531272eab5d6322fb907fb878d050157a9ab2.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/ff97c3c22b831467e1e99700cac8a993c047d51b.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "91.7"
+          },
+          "ACHIEVEMENT_1_21": {
+            "name": "Just Wait",
+            "description": "Wait at the railing for 30 seconds",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/122de004c5ef54d6ce2b2f311d4abe6cd62dba99.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/ee8dde1011693e4aa0a0e9a4cb1574b9745214da.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "1.0"
+          },
+          "ACHIEVEMENT_1_22": {
+            "name": "Wrong Little Boy",
+            "description": "Fight the wrong little boy",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/b72de2ffa7cf95aab03b9d8e1af8c630f1b1ba81.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/011322af9a3246b2b044e4cf186238b094399ccd.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "6.1"
+          },
+          "ACHIEVEMENT_1_23": {
+            "name": "Beat the Clock",
+            "description": "Reach destination under best time",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/072d4710bb403a00d23af1b84a24533c0d10039c.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/ceb5f4d4ea7893b8bdf39603cfc1325a0cedc9ac.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.3"
+          },
+          "ACHIEVEMENT_1_24": {
+            "name": "Act One Complete",
+            "description": "Finish Act 1",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/8d5e2531aff16e6033c8a4d35ebcbb1e0915ff30.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/bb123bdf7a80d21e81d203a7cd39f5a1c6ce24ce.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "24.6"
+          },
+          "ACHIEVEMENT_1_25": {
+            "name": "Street Justice",
+            "description": "Perform a curb stomp takedown",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/cbb41067293fb6247a88e175c71e80cf4eed1005.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/9e3083d125e2e6f1ddf60afd9928afd9e499ac2d.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "12.9"
+          },
+          "ACHIEVEMENT_1_26": {
+            "name": "Glass Breaker",
+            "description": "Perform car door window smash takedown",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/ae7ed7adc1038bff43aacee8f87921c1d628dc0e.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/b8a36ff88eb3bf372b38c22e295209cff4eb1449.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "3.2"
+          },
+          "ACHIEVEMENT_1_27": {
+            "name": "Store Cat",
+            "description": "Have the cat follow you around",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/8d4138fb9037217dba1d20d8cf5934f728e962a6.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/3f86508046d0dbeaedd456c64344cf6680bc1153.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "77.8"
+          },
+          "ACHIEVEMENT_1_28": {
+            "name": "For the Shelf",
+            "description": "Collect 10 special-edition DVD boxes",
+            "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/e35065efdfe14d9708852509647befbf4cd49d23.jpg",
+            "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3639070/155bda4191025c9f49d5ea465d5389f3a37c840e.jpg",
+            "hidden": false,
+            "group": "Base Game",
+            "percent": "0.4"
+          }
+        },
+        "platform": null,
+        "blacklist": [],
+        "uses_db": false
+      },
+      "achievements": {
+        "ACHIEVEMENT_1_0": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_1": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_10": {
+          "earned": true,
+          "earned_time": 1791471590
+        },
+        "ACHIEVEMENT_1_11": {
+          "earned": true,
+          "earned_time": 1791470451
+        },
+        "ACHIEVEMENT_1_12": {
+          "earned": true,
+          "earned_time": 1789770116
+        },
+        "ACHIEVEMENT_1_13": {
+          "earned": true,
+          "earned_time": 1789688418
+        },
+        "ACHIEVEMENT_1_14": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_15": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_16": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_17": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_18": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_19": {
+          "earned": true,
+          "earned_time": 1789672693
+        },
+        "ACHIEVEMENT_1_2": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_20": {
+          "earned": true,
+          "earned_time": 1789687586
+        },
+        "ACHIEVEMENT_1_21": {
+          "earned": true,
+          "earned_time": 1791472780
+        },
+        "ACHIEVEMENT_1_22": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_23": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_24": {
+          "earned": true,
+          "earned_time": 1791466440
+        },
+        "ACHIEVEMENT_1_25": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_26": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_27": {
+          "earned": true,
+          "earned_time": 1791471682
+        },
+        "ACHIEVEMENT_1_28": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_3": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_4": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_5": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_6": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_7": {
+          "earned": false,
+          "earned_time": 0
+        },
+        "ACHIEVEMENT_1_8": {
+          "earned": true,
+          "earned_time": 1791469333
+        },
+        "ACHIEVEMENT_1_9": {
+          "earned": true,
+          "earned_time": 1791470564
         }
       }
     }
